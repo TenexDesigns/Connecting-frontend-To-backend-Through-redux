@@ -1,4 +1,4 @@
-/*
+
  
 In mern Stack To connect Fronend to backend We use React-redux.
 To manage The state of our fronend we use redux or reduxtoolkit.
